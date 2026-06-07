@@ -1,0 +1,12 @@
+Algorithm,R2 Score,MAE,MSE,RMSE
+Linear Regression,1.0,0.0,0.0,0.0
+Ridge Regression,1.0,0.0001,0.0,0.0002
+Extra Trees,0.9979,0.0009,0.0015,0.0387
+Random Forest,0.9952,0.0021,0.0035,0.0588
+Decision Tree,0.9949,0.0012,0.0036,0.0603
+Gradient Boosting,0.9936,0.0102,0.0046,0.068
+AdaBoost,0.3917,0.4887,0.437,0.6611
+ElasticNet,0.1065,0.4102,0.642,0.8012
+Lasso Regression,0.0005,0.4365,0.7181,0.8474
+SVR,-0.0221,0.3113,0.7344,0.8569
+KNN,-0.0253,0.3274,0.7366,0.8583
